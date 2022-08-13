@@ -1,0 +1,5 @@
+td+td, th+th {
+border-left: 1px solid #BBB;
+}
+
+คือการสร้างกรอบด้านข้างของ Td เเละ Th
